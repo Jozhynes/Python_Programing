@@ -1,1 +1,1 @@
-print("I love to program with python as it is easier to learn and understand")
+print("'I love to program with python as it is easier to learn and understand")
